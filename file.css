@@ -1,0 +1,30 @@
+/**/
+
+* {
+  background-color: rgb(9, 0, 0);
+}
+
+body {
+  background-color: rgb(209, 64, 45);
+}
+.header {
+  border-style: groove;
+  background-color: rgb(255, 255, 255);
+}
+
+.main {
+  border-style: groove;
+  border-color: azure;
+}
+
+.footer {
+  border-style: groove;
+}
+
+label {
+  color: white;
+}
+
+#prénom {
+  color: rgb(221, 4, 4);
+}
